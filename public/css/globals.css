@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+.title{
+    text-align: center;
+}
+.todo-master-container{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+.todo-container{
+    text-align: center;
+    border:1px solid black;
+    width:80%;
+    border-radius:20px;
+    box-shadow: 10px 10px;
+    margin-top: 40px;
+}
